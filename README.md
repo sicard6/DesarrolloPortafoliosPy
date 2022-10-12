@@ -1,0 +1,1 @@
+# Este es el proyecto para traducir el algoritmo genetico de portafolios a py
